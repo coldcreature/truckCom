@@ -16,4 +16,5 @@ Possible enhancements:
       - auxillary battery
   
   - Digital gauge cluster
+  - Back-up camera
   
